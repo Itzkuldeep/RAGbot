@@ -88,7 +88,7 @@ The system follows a modular approach:
 4. **Retrieval and Query**:
    - User queries are processed to retrieve relevant document chunks, and answers are generated using **Ollama**'s API.
 
-![System Architecture](pictures/architecture.png.png)  <!-- Change the image path when available -->
+![System Architecture](pictures/architecture.png)  <!-- Change the image path when available -->
 
 ---
 
