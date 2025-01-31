@@ -88,7 +88,7 @@ The system follows a modular approach:
 4. **Retrieval and Query**:
    - User queries are processed to retrieve relevant document chunks, and answers are generated using **Ollama**'s API.
 
-![System Architecture](path_to_image.png)  <!-- Change the image path when available -->
+![System Architecture](pictures/architecture.png.png)  <!-- Change the image path when available -->
 
 ---
 
@@ -131,7 +131,7 @@ The system follows a modular approach:
    - **Question**: “What is the purpose of the document?”
    - The system will retrieve relevant chunks and generate an answer using Ollama's model.
 
-![Streamlit UI Example](pictures\app_code.png) <!-- Change the image path when available -->
+![Streamlit UI Example](pictures/app_code.png) <!-- Change the image path when available -->
 
 ---
 
@@ -182,15 +182,3 @@ rag-ollama/
 ```
 
 ---
-
-### **Explanation:**
-
-1. **Document Processing Flow**: The README clearly explains the steps involved in document processing, including loading, splitting, storing, and querying.
-2. **Setup Instructions**: The README includes detailed setup instructions, including installation, Google Cloud setup, and running the FastAPI and Streamlit services.
-3. **Code Snippets**: Examples of how to interact with the system, including uploading documents and querying them, are provided.
-4. **System Architecture Diagram**: Placeholder image links are used for architecture and UI screenshots. You can replace these with actual images once you have them.
-5. **File Structure**: The file structure section outlines the organization of your project files.
-
-Once you have everything set up and working, you can replace the placeholders like `path_to_image.png` with the actual image paths, and modify the content based on any changes made to your project.
-
-Let me know if you need additional changes or clarifications!
