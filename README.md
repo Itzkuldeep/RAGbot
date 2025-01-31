@@ -1,6 +1,3 @@
-Here’s a template for your `README.md` that describes the RAG-based document retrieval project with Ollama and provides instructions on how to set up and run the application.
-
-```markdown
 # RAG-based Document Retrieval with Ollama
 
 This project demonstrates a **Retrieval Augmented Generation (RAG)** approach to document processing and question-answering, using Ollama and various document processing tools. It allows you to upload a document, split it into smaller chunks, index those chunks, and use them to answer user queries.
@@ -134,7 +131,7 @@ The system follows a modular approach:
    - **Question**: “What is the purpose of the document?”
    - The system will retrieve relevant chunks and generate an answer using Ollama's model.
 
-![Streamlit UI Example](path_to_image.png) <!-- Change the image path when available -->
+![Streamlit UI Example](pictures\app_code.png) <!-- Change the image path when available -->
 
 ---
 
@@ -182,14 +179,6 @@ rag-ollama/
 ├── app.py                 # Streamlit frontend
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ```
 
 ---
