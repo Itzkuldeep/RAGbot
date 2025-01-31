@@ -1,0 +1,24 @@
+# FastAPI and related dependencies
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+
+# LangChain and related dependencies
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-ollama
+ollama
+
+# Embedding and NLP
+chromadb
+numpy
+
+# PDF and text extraction
+pymupdf  # PyMuPDF
+
+# Streamlit for UI
+streamlit
+requests
